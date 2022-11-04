@@ -13,6 +13,13 @@ Problem solving with data structures and algorithms
 + [Leetcode Patterns][3]
 
 
+## Exercises
+
+|  Serial No.  |        Exercise        |        Topics        |
+|:------------:|:----------------------:|:---------------------|
+| 1            | Contains Duplicate     | array
+
+
 ----
 
 [1]: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
