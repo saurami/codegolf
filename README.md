@@ -22,7 +22,8 @@ Problem solving with data structures and algorithms
 |:------------:|:----------------------:|:---------------------|
 | 1            | Contains Duplicate     | array, integer       |
 | 2            | Missing Number         | array, integer       |
-| 3            | Valid Anagram          | array, string        |
+| 3            | Valid Palindrome       | array, string        |
+| 4            | Valid Anagram          | array, string        |
 
 
 ----
