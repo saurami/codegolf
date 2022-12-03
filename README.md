@@ -12,12 +12,17 @@ Problem solving with data structures and algorithms
 
 + [Leetcode Patterns][3]
 
++ [Neetcode][4]
+
 
 ## Exercises
 
+
 |  Serial No.  |        Exercise        |        Topics        |
 |:------------:|:----------------------:|:---------------------|
-| 1            | Contains Duplicate     | array
+| 1            | Contains Duplicate     | array, integer       |
+| 2            | Missing Number         | array, integer       |
+| 3            | Valid Anagram          | array, string        |
 
 
 ----
@@ -27,3 +32,5 @@ Problem solving with data structures and algorithms
 [2]: https://leetcode.com/list/xi4ci4ig/
 
 [3]: https://seanprashad.com/leetcode-patterns/
+
+[4]: https://neetcode.io/practice
